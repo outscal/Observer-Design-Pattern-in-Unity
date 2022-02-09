@@ -1,4 +1,4 @@
-## 8. Advantages and Disadvantages
+## Advantages and Disadvantages
 
 ### 1) **Delegates -**
 
