@@ -1,4 +1,4 @@
-## 3. Problems being solved by Observer Pattern
+## Problems being solved by Observer Pattern
 Your code can get messy in case of many different parameters in your game like,
 1. If multiple developers are working don't he same project
 2. Code becomes Spaghetti
