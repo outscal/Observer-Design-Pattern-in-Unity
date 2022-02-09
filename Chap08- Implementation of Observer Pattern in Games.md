@@ -1,4 +1,4 @@
-## 9. Implementation of Observer Pattern in Games
+## Implementation of Observer Pattern in Games
 
 We can use this in building the achievement system of our game where player will receive different reward based on different achievements they achieve in the game journey.
 
