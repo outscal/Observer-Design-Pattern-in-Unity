@@ -1,4 +1,4 @@
-## 6. What are Events
+## What are Events
 Events are a special kind of multicast delegate and they work the same as normal delegates.
 
 However, as delegates can be called by other scripts, event delegates can only be called from within the scripts. This means that they can subscribe and unsubscribe to their own functions but they cannot trigger the events or change the subscription of other functions from other classes.
