@@ -1,4 +1,4 @@
-## 4. Advantages & Disadvantages of Observer pattern
+## Advantages & Disadvantages of Observer pattern
 Advantages are,
 1. The code is more maintainable because it is less coupled between the observable classes and their dependencies (the observers).
 2. Clean code. The Open-Closed Principle is guaranteed since the new observers (subscribers) can be introduced without breaking the existing code in the observable (and vice versa).
