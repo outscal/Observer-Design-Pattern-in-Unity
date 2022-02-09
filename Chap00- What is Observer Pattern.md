@@ -11,7 +11,7 @@ submissions = 100 points
 500 points = Outscal Branded T-shirt 👕
 >
 ---
-## 1. What is Observer Pattern
+## What is Observer Pattern
 An object (a.k.a Subject) maintains a list of its dependents known as observers. Then if a state is changed, the subject notifies all of its observers of changes usually by calling their methods.
 
 ![Alt](Images/1.png "Intorducing subjects and observers in Observer Pattern")
