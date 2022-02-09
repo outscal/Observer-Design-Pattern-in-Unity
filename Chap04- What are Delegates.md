@@ -1,4 +1,4 @@
-## 5. What are Delegates
+## What are Delegates
 Delegates are nothing but function containers. Delegates allow us to store and call a function just like a variable. To do that, however, you have to decide which and what type of function, the delegate will be able to hold.
 
 For example - You can define a delegate that has a return type as void, which means that it will not return anything, and that doesn’t take any parameters.
