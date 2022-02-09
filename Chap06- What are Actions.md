@@ -1,4 +1,4 @@
-## 7. What are Actions
+## What are Actions
 Actions are nothing but ready-made delegates. They can be used to create a delegate or delegate event with a void return type.
 
 In order to use an Action, you have to write **using System** directive on the top of your script.
