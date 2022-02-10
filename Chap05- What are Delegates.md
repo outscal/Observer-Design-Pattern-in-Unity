@@ -50,5 +50,3 @@ This is important, as subscribing functions without cleaning them up afterwards 
 
 As delegates are public, other scripts can access the delegate, it is possible for any other script to call it or even clear the assigned functions from the delegate.
 In order to prevent it, we have Events in unity.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
