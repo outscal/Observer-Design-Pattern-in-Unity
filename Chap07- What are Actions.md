@@ -14,6 +14,3 @@ You can add parameters in angled brackets when declaring an action.
 Like this:
 
 ![Alt](Images/A2.png "Assigning Actions to parameters")
-
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
