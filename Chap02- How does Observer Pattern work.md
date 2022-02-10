@@ -9,6 +9,3 @@ For example, in your game there is an instance when the player dies and after th
 
 Below flow diagram gives you the visual representation what has been explained above
 ![Alt](Images/2.png "Working of Subject and Observer")
-
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
