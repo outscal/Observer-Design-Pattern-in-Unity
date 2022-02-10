@@ -17,5 +17,3 @@ In order to prevent it, Actions come in handy.
 
 1. Overriding subscribed functions
 2. Public invoking
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
