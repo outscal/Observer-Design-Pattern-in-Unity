@@ -6,7 +6,7 @@ So you have finally decided to take a step ahead and learn about Design Patterns
 
 Before you head into battle. You're going to need a little something to add to your arsenal.
 
-![](https://media.giphy.com/media/xT39Db8zIOODTppk08/giphy-downsized-large.gif)
+![Introduction](https://media.giphy.com/media/46zr6Ka7bUtFoc0uHZ/giphy.gif)
 
 ## **Why Observer Pattern?**
 
