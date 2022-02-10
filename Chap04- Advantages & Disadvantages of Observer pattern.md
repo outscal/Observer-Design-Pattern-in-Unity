@@ -7,5 +7,3 @@ Advantages are,
 Disadvantages are,
 1. Subscribers are notified in random order. 
 2. There is also a memory leakage problem in the observer design pattern because of the observer's explicit register and unregistering
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
