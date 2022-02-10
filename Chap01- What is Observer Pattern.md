@@ -4,5 +4,3 @@ An object (a.k.a Subject) maintains a list of its dependents known as observers.
 ![Alt](Images/1.png "Intorducing subjects and observers in Observer Pattern")
 
 The Observer pattern can also be defined as the relationship where one subject can signal its many watchers (or observers). Unintuitively, it is the subject calls out to its observers that respond, rather than the observers acting independently on the subject.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
