@@ -24,6 +24,3 @@
     - We can create delegates and event delegates easily using actions.
 - **Disadvantages -**
     - Actions must have a void return type
-
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
