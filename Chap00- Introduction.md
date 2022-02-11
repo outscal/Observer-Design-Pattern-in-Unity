@@ -2,9 +2,9 @@
 
 Hello there 👋 
 
-So you have finally decided to take a step ahead and learn about Design Patterns to build games. First off let me congratulate you on making it this far and taking the plunge. You're already off to a good start. Keep the momentum going.
+Hurray!! I can see your confidence building in using Design Patterns. Ever wondered how the notifications system in Facebook works! Observer Pattern will be the answer here. 
 
-Before you head into battle. You're going to need a little something to add to your arsenal.
+Get ready to dig deeper in the journey of learning design patterns.
 
 ![Introduction](https://media.giphy.com/media/46zr6Ka7bUtFoc0uHZ/giphy.gif)
 
