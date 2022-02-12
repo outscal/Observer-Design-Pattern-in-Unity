@@ -26,4 +26,4 @@ As you learn and upskill yourself, you can earn learning points. These points ca
 
 
 
-All clear? Let's Get Started and get you access to your tools
+All clear? Let's Get Started
