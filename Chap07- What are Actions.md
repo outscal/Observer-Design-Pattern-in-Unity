@@ -5,7 +5,14 @@ In order to use an Action, you have to write **using System** directive on the t
 
 You can create an action like this:
 
-![Alt](Images/A1.png "Assigning Actions")
+```C#
+//this
+public static event Action OnGameOver;
+
+//is basically the same as this...
+public delegate void OnGameOver();
+public static event ONGameOver onGameOver;
+```
 
 Actions have a void return type but they can be used with one or more parameters.
 
@@ -13,4 +20,7 @@ You can add parameters in angled brackets when declaring an action.
 
 Like this:
 
-![Alt](Images/A2.png "Assigning Actions to parameters")
+```C#
+public static event Action<string> OnDeath;
+public static event Action<float, bool> OnPlayerHurt;
+```
