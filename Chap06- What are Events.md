@@ -7,7 +7,10 @@ To use events you’ll need to define a delegate type and an instance, just like
 
 Like this-
 
-![Alt](Images/E1.png "Declaring Event")
+```C#
+public delegate void onDeath();
+public static void onDeath onDeath;
+```
 
 Using these event delegates it is easy to manage complex relationships between different behaviours in the game.
 However, it is sometimes difficult to declare a new delegate type every time you want to use one.
