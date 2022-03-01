@@ -5,29 +5,57 @@ For example - You can define a delegate that has a return type as void, which me
 
 We usually write a normal function like this:
 
-![Alt](Images/D1.png "Function Dummy Code")
+```C#
+void FunctionName()
+{
+	//Normal Function.
+}
+```
 
 But to define a Delegate, you have to add the delegate keyword and remove the function’s body. like this:
 
-![Alt](Images/D2.png "Define Delegate")
+```C#
+delegate void MyDelegate();
+```
 
 This is a reference for a type of delegate. It defines what function can be stored in delegate instances.
 
 In order to use it, you have to declare an instance of that delegate type.
 Like this:
 
-![Alt](Images/D3.png "Instance of Delegate")
+```C#
+delegate void MyDelegate();
+MyDelegate attack;
+```
 
 Now the attack delegate will hold any function, but that function should have a void return type and doesn't have any parameters.
 
 In order to assign a function to the delegate, you just have to assign it in the same way as assigning a variable. All you need to do is pass in the name of the function, without parenthesis.
 Like this:
 
-![Alt](Images/D4.png "Assigning a function to Delegate")
+```C#
+delegate void MyDelegate();
+MyDelegate attack;
+void Start()
+{
+	attack = PrimaryAttack;
+}
+void PrimaryAttack()
+{
+	//attack!
+}
+```
 
 It is important to only call a delegate if there’s a function assigned to it, otherwise, it will cause a null reference error. You can do it in two ways -
 
-![Alt](Images/D5.png "Null refrence error")
+```C#
+if(attack != null)
+{
+	attack();
+}
+		//OR
+attack?.Invoke();
+```
 
 In the above example attack = PrimaryAttack; Here the delegate is called a single-cast delegate.
 
@@ -36,7 +64,15 @@ In the above example attack = PrimaryAttack; Here the delegate is called a singl
 Delegates can also work as Multicast Delegates which means that, instead of triggering only one function, they can be used to trigger multiple functions all data once.
 Like this:
 
-![Alt](Images/D6.png "Multicast Delegates")
+```C#
+delegate void MyDelegate();
+MyDelegate attack;
+void Start()
+{
+	attack += PrimaryAttack;
+	attack += SecondaryAttack;
+}
+```
 
 Here, both PrimaryAttack and SecondaryAttack will be called when the attack delegate is triggered.
 
