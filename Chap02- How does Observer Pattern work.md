@@ -9,6 +9,6 @@ For example, in your game, there is an instance when the player dies and after t
 3. The list of Objects/Observers may something based on the message
 
 
-![Alt](Images/2.png "Working of Subject and Observer")
+![Source: Google](Images/2.png "Working of Subject and Observer")
 
 This flow diagram gives you the visual representation of what we have explained above.
