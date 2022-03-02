@@ -5,5 +5,5 @@ We can use this in building the achievement system of our game where player will
  ---
 To know more about this, refer to our project below,
 
-[Unity3D: Achievement System Project](https://github.com/outscal/Unity3D-Project-Achievement-system)
+[Unity3D: Achievement System Project](https://academy.outscal.com/unity3d-project-achievement-system/)
 
